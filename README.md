@@ -44,17 +44,17 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muzamilafey&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muzamilafey&layout=compact&theme=dark)
 
 ---
 
 ## 🤝 Connect With Me
 
-- 🌐 GitHub: https://github.com/YOUR_USERNAME
-- 📧 Email: your@email.com
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
+- 🌐 GitHub: https://github.com/muzamilafey
+- 📧 Email: muzamilinc@gmail.com
+- 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/muzamil-mohamed-820b40333/)
 
 ---
 
